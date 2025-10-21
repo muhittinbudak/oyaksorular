@@ -1,5 +1,17 @@
 [
   {
+    "id": "0",
+    "question": "Emsalimin ne kadar rezervi(Emeklilik yardımı) var?",
+    "link": "https://oyakbilgi.blogspot.com/p/emsal-listesi.html",
+    "image": ""
+  },
+  {
+    "id": "0",
+    "question": "Rezerv Karşılığı %80 Borç Verme Hizmeti",
+    "link": "https://oyakbilgi.blogspot.com/p/rezerv-karsiligi-yuzde-80-borc-verme.html",
+    "image": ""
+  },
+  {
     "id": "1",
     "question": "Emekli maaşı sistemi (OYAK EMS) nedir?",
     "link": "https://oyakbilgi.blogspot.com/p/emekli-maasi-sistemi-oyak-ems-nedir.html",
@@ -212,7 +224,7 @@
   {
     "id": "36",
     "question": "Sistemdeki üyelerin sosyal hizmetlere ilişkin taksitlerini ödememe durumunda yapılan işlem nedir?",
-    "link": "https://oyakbilgi.blogspot.com/p/sistemdeki-uyelerin-sosyal-hizmetlere.html ",
+    "link": "https://oyakbilgi.blogspot.com/p/sistemdeki-uyelerin-sosyal-hizmetlere.html",
     "image": ""
   },
   {
@@ -229,7 +241,7 @@
   },
   {
     "id": "39",
-    "question": "OYAK EMS  Emekli Maaş Sisteminde emsal tamamlama nasıl yapılır?",
+    "question": "OYAK EMS Emekli Maaş Sisteminde emsal tamamlama nasıl yapılır?",
     "link": "https://oyakbilgi.blogspot.com/p/oyak-ems-sisteminde-emsal-tamamlama.html",
     "image": ""
   },
@@ -290,7 +302,7 @@
   {
     "id": "49",
     "question": "OYAK EMS'de Sistemden çıkış ne şekilde yapılmaktadır?",
-    "link": "https://oyakbilgi.blogspot.com/p/oyak-ems-de-sistemden-cikis-ne-sekilde.html ",
+    "link": "https://oyakbilgi.blogspot.com/p/oyak-ems-de-sistemden-cikis-ne-sekilde.html",
     "image": ""
   },
   {
@@ -308,7 +320,7 @@
   {
     "id": "52",
     "question": "OYAK EMS'den çıkış durumunda borç verme hizmetine (oyak kaynaklı ve oyak dışı kaynaklı) ilişkin vadesi gelmemiş borçların durumu ne olmaktadır?",
-    "link": "https://oyakbilgi.blogspot.com/p/ems-cikisinda-borc-verme-oyak-kaynakli.html ",
+    "link": "https://oyakbilgi.blogspot.com/p/ems-cikisinda-borc-verme-oyak-kaynakli.html",
     "image": ""
   },
   {
@@ -385,7 +397,7 @@
   },
   {
     "id": "65",
-    "question": " Üyelik süresi ile emeklilik yardımı arasındaki ilişki nedir?",
+    "question": "Üyelik süresi ile emeklilik yardımı arasındaki ilişki nedir?",
     "link": "https://oyakbilgi.blogspot.com/p/uyelik-suresi-ile-emeklilik-yardimi.html",
     "image": ""
   },
@@ -472,7 +484,7 @@
     "question": "Yapı kredi promosyon süresi olan 3 yıllık süre zarfında oyak üyeliğinden çıkarsam veya maaş almama seçeneğini tercih edersem ne olur?",
     "link": "https://oyakbilgi.blogspot.com/p/yapi-kredi-promosyon-suresi-olan-3.html",
     "image": ""
-  },
+   },
   {
     "id": "80",
     "question": "Ek başka yükümlülüklerim, taahhütlerim olacak mı?",
@@ -541,7 +553,7 @@
   },
   {
     "id": "91",
-    "question": "Promosyon ödemesi hesabımı yapı kredi bankası'na taşıdıktan kaç gün sonra yatar?",
+    "question": "OYAK EMS maaşına Promosyon ödemem ne zaman yapılır?",
     "link": "https://oyakbilgi.blogspot.com/p/promosyon-odemesi-hesabimi-yapi-kredi.html",
     "image": ""
   },
@@ -613,7 +625,7 @@
   },
   {
     "id": "103",
-    "question": "Maaşalma Oran Tercihi(MOT) belirlemez isem Maasalma Oran Tercihi hangi orana göre maaş alırım?",
+    "question": "Maaşalma Oran Tercihi(MOT) belirlemez isem Maaşalma Oran Tercihi hangi orana göre maaş alırım?",
     "link": "https://oyakbilgi.blogspot.com/p/maasalma-oran-tercihi-mot-yapmazsam.html",
     "image": ""
   },
@@ -649,8 +661,106 @@
   },
   {
     "id": "109",
-    "question": "Maaşalma Oran Tercihi(MOT) neden en fazla %50?",
+    "question": "Maaşalma Oran Tercihi(MOT) neden en fazla %50",
     "link": "https://oyakbilgi.blogspot.com/p/maas-alma-orani-en-fazla-kactir.html",
     "image": ""
+  },
+  {
+    "id": "110",
+    "question": "2025 dönemi Maas alıp almama ve Maaş oran tercihi(MOT) takvimi tarihleri ne zaman?",
+    "link": "https://oyakbilgi.blogspot.com/p/110-yeni-donem-maas-alip-almama-ve-maas.html",
+    "image": ""
+  },
+  {
+    "id": "111",
+    "question": "Genel Kurul Sonrası hangi aylarda maaş alacağım?",
+    "link": "https://oyakbilgi.blogspot.com/p/genel-kurul-sonrasi-hangi-aylarda-maas.html",
+    "image": ""
+  },
+  {
+    "id": "112",
+    "question": "Kıst Maaş alıyorum Mayıs Gen.Krl. sonrası maaşımı yükseltirsem OYAK EMS Banka promosyonu güncellemesi yapabilirmiyim?",
+    "link": "https://oyakbilgi.blogspot.com/p/kist-maas-aliyorum-maysta-maasim.html",
+    "image": ""
+  },
+  {
+    "id": "113",
+    "question": "OYAK EMS'ye Giriş ve Sisteme katılım payları nasıl belirlenir?",
+    "link": "https://oyakbilgi.blogspot.com/p/oyak-ems-ye-giris-ve-sisteme-katilim_79.html",
+    "image": ""
+  },
+  {
+    "id": "114",
+    "question": "Bu yıl 2026 Mayıs genel kurul sonrası maaş alacağım. Maaşalma Oran Tercihini (MOT) ne zaman yapacağım?",
+    "link": "https://oyakbilgi.blogspot.com/p/buyil-maas-alacagim-ne-zaman-mot.html",
+    "image": ""
+  },
+  {
+    "id": "115",
+    "question": "Bu yıl ilk defa maaş alacağım. Promosyon Yapı Kredi Bankasına ne zaman başvurmalıyım?",
+    "link": "https://oyakbilgi.blogspot.com/p/ilk-defa-maas-alacagim-promosyon-icin.html",
+    "image": ""
+  },
+  {
+    "id": "116",
+    "question": "OYAK EMS'de Pay Azaltımı yaptım ödemem ne zaman yapılıyor?",
+    "link": "https://oyakbilgi.blogspot.com/p/pay-azaltm-yaptm-odemem-ne-zaman-yaplyor.html",
+    "image": ""
+  },
+  {
+    "id": "117",
+    "question": "Emsal tamamlama veya Pay Arttırımı'nı kimler yapabilir?",
+    "link": "https://oyakbilgi.blogspot.com/p/emsal-tamamlama-veya-pay-arttirimini.html",
+    "image": ""
+  },
+  {
+    "id": "118",
+    "question": "3 Aylıktan 1 aylığa geçenlere aylık ödemeleri neden Temmuz ayında başlıyor?",
+    "link": "https://oyakbilgi.blogspot.com/p/3-ayliktan-1-ayliga-gecen-neden.html",
+    "image": ""
+  },
+  {
+    "id": "119",
+    "question": "Maaşalma oran tercihi(MOT)'ni 7 gün içerisinde OYAK Mobilden nasıl yapacağım?",
+    "link": "https://oyakbilgi.blogspot.com/p/maasalma-oran-tercihini-7-gun.html",
+    "image": ""
+  },
+  {
+    "id": "120",
+    "question": "Maaş almak istemezsem bunu 7 gün içerisinde OYAK Mobilden nasıl yapacağım?",
+    "link": "https://oyakbilgi.blogspot.com/p/maas-almak-istemez-isem-7-gun.html",
+    "image": ""
+  },
+  {
+    "id": "121",
+    "question": "Çalışan/Görevdeki ve OYAK EMS üyelerinin masraf ve riziko kesintileri nedir?",
+    "link": "https://oyakbilgi.blogspot.com/p/masraf-riziko-olum-yardimi-oranlari.html",
+    "image": ""
+  },
+  {
+    "id": "122",
+    "question": "OYAK EMS'den ne zaman çıkarsam, çıkış ödemem ne zaman yapılır?",
+    "link": "https://oyakbilgi.blogspot.com/p/oyak-ems-den-ne-zaman-cikarsam-odemem.html",
+    "image": ""
+  },
+  {
+    "id": "123",
+    "question": "OYAK EMS'de pay azaltımı için OYAK'a ne zaman başvurabilirim? Ödemem ne zaman yapılır?",
+    "link": "https://oyakbilgi.blogspot.com/p/pay-azaltimi-icin-oyak-ne-zaman.html",
+    "image": ""
+  },
+  {
+    "id": "124",
+    "question": "Pay azaltımı ve Çıkış'ta 3 Yıl ile ilgili bilinmesi gerekenler?",
+    "link": "https://oyakbilgi.blogspot.com/p/uc-yl-ne-zaman-doluyor.html",
+    "image": ""
+  },
+  {
+    "id": "125",
+    "question": "10 yılı doldurmadan TSK'dan ayrılırsam OYAK ödemem yapılır mı?",
+    "link": "https://oyakbilgi.blogspot.com/p/10-yili-doldurmadan-tsk-dan-ayrilirsam.html",
+    "image": ""
   }
-]
+] 
+    
+    
