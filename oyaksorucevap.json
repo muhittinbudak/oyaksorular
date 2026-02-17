@@ -1,0 +1,27 @@
+[
+  { 
+    "soruId": 1, 
+    "soruTitle": "1 Emekli maaşı sistemi (OYAK EMS) nedir?", 
+    "soruUrl": "https://oyakhaber.blogspot.com/p/emekli-maasi-sistemi-oyak-ems-nedir.html" 
+  },
+  { 
+    "soruId": 2, 
+    "soruTitle": "2 Kimler OYAK EMS Emekli Maaşı Sistemi'ne katılabilir?", 
+    "soruUrl": "https://oyakhaber.blogspot.com/p/kimler-oyak-ems-emekli-maasi-sistemine.html" 
+  },
+  { 
+    "soruId": 3, 
+    "soruTitle": "3 Daha önceki yıllarda emekli olan üyelerin OYAK EMS'ye katılma hakları varmıdır?",
+    "soruUrl": "https://oyakhaber.blogspot.com/p/daha-onceki-yillarda-emekli-olan.html" 
+  },
+  { 
+    "soruId": 4, 
+    "soruTitle": "4 OYAK EMS üyeleri sistemde nasıl karpayı(gelir) elde eder?", 
+    "soruUrl":"https://oyakhaber.blogspot.com/p/oyak-ems-uyeleri-sistemde-nasil-karpayi.html" 
+  },
+  { 
+    "soruId": 5, 
+    "soruTitle": "5 OYAK EMS'de ödenen maaşlardan ve rezervden vergi kesintisi yapılmakta mıdır?", 
+    "soruUrl":"https://oyakhaber.blogspot.com/p/oyak-ems-de-maaslardan-vergi-kesiliyormu.html" 
+  }
+]  
