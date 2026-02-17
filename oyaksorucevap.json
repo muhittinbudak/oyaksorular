@@ -1,4 +1,5 @@
-[
+{
+  "scdata": [
   { 
     "soruId": 1, 
     "soruTitle": "1 Emekli maaşı sistemi (OYAK EMS) nedir?", 
@@ -23,5 +24,6 @@
     "soruId": 5, 
     "soruTitle": "5 OYAK EMS'de ödenen maaşlardan ve rezervden vergi kesintisi yapılmakta mıdır?", 
     "soruUrl":"https://oyakhaber.blogspot.com/p/oyak-ems-de-maaslardan-vergi-kesiliyormu.html" 
-  }
-]  
+  } 
+  ]
+}
