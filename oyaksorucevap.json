@@ -24,6 +24,31 @@
     "soruId": 5, 
     "soruTitle": "5 OYAK EMS'de ödenen maaşlardan ve rezervden vergi kesintisi yapılmakta mıdır?", 
     "soruUrl":"https://oyakhaber.blogspot.com/p/oyak-ems-de-maaslardan-vergi-kesiliyormu.html" 
-  } 
+  },
+  { 
+    "soruId": 6, 
+    "soruTitle": "6 OYAK Emekli Maaş Sistemine (OYAK EMS) girmek için gerekli olan katılım oranı ve tutarı nedir?", 
+    "soruUrl": "https://oyakhaber.blogspot.com/p/oyak-emekli-maas-sistemi-katilim-orani.html"
+  },
+  { 
+    "soruId": 7, 
+    "soruTitle": "7 - Emekli maaşı sistemine(OYAK EMS) katılım başvurusu ne zaman yapılabilir?", 
+    "soruUrl": "https://oyakhaber.blogspot.com/p/oyakems-katilim-basvurusu-ne-zaman.html" 
+  },
+  { 
+    "soruId": 8, 
+    "soruTitle": "8 - OYAK Üyeleri adres bilgileri güncellemesini nasıl yapabilir?", 
+    "soruUrl": "https://oyakhaber.blogspot.com/p/adres-bilgileri-guncellemesi-nasil.html" 
+  },
+  { 
+    "soruId": 9, 
+    "soruTitle": "9 - Emekli Maaş Sisteminde (OYAK EMS) mevcut maaş uygulamaları nelerdir?", 
+    "soruUrl": "https://oyakhaber.blogspot.com/p/oyakems-mevcut-maas-sistemleri-neler.html" 
+  },
+  { 
+    "soruId": 10, 
+    "soruTitle": "10 OYAK EMS Peşin Maaş uygulaması nedir?", 
+    "soruUrl": "https://oyakhaber.blogspot.com/p/oyak-ems-pesin-maas-uygulamasi-nedir.html" 
+  }     
   ]
 }
