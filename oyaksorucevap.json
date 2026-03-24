@@ -1,5 +1,6 @@
 {
   "scdata": [
+  
   { 
     "soruId": 1, 
     "soruTitle": "Emekli maaşı sistemi (OYAK EMS) nedir?", 
@@ -59,6 +60,697 @@
     "soruTitle": "OYAK EMS Peşin Maaş uygulaması nedir?", 
     "soruResim":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRdH7_iw53PmQQK1-r5LvSrQRqSbP7lGfkLcISM1a8x_3OsQ_iUld4CsFse_L0ELfyYP3heM12XMFrm-nriUwy-nnndqzfyZ4LYnmh7QLkLWFHB4Yb4yiojpxYcJCgPBjM0RM2FgKOU6AojG8wtiMUfsJhABeRTNSRdhY0tyWM1UIwSTM3r9YZf8GiL85H/s1600/pesin-maas-nedir.jpg",
     "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-pesin-maas-uygulamasi-nedir.html" 
-  }     
+  },  
+  {
+    "soruId": "11",
+    "soruTitle": "OYAK EMS kesin maaş uygulaması nedir?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-kesin-maas-uygulamas-nedir.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "12",
+    "soruTitle": "Kesin maaş uygulaması ile peşin maaş uygulaması arasındaki fark nedir?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/kesin-maas-uygulamasi-ile-pesin-maas.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "13",
+    "soruTitle": "OYAK EMS Kesin maaş uygulaması'nda maaş nasıl hesaplanır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/kesin-maas-uygulamasinda-maas-nasil.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "14",
+    "soruTitle": "OYAK EMS'de Peşin maaş uygulamasından kesin maaş uygulamasına nasıl geçilir?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/pesin-maas-uygulamasindan-kesin-maas.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "15",
+    "soruTitle": "OYAK EMS'de Peşin maaş uygulaması'ndan kesin maaş uygulaması'na geçenler maaşlarını ne zaman alırlar?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/pesin-maas-uygulamasindan-kesin-maas_10.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "16",
+    "soruTitle": "OYAK EMS Sisteminde masraf primi ve riziko primi kesintisi nasıl yapılır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-sisteminde-masraf-primi-ve.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "17",
+    "soruTitle": "OYAK EMS'ye giren üyeler ilk maaşları ne zaman ödenir?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-ye-giren-uyelere-ilk-maas-ne.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "18",
+    "soruTitle": "OYAK EMS'de kıst maaş nedir?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-de-kist-maas-nedir.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "19",
+    "soruTitle": "OYAK EMS Kesin Maaş uygulamasında maaş değişiklikleri ne zaman yapılır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-kesin-maas-uygulamasinda-maas.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "20",
+    "soruTitle": "Kesin maaş uygulaması kapsamında farklı tarihlerde yapılan maaş ödemelerine faiz veya nema adı altında herhangi bir getiri oranı uygulanır mı?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/kesin-maasta-farkli-tarihlerde-yapilan.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "21",
+    "soruTitle": "OYAK EMS Emekli maaşı sistemi'ndeki maaş artış oranı neye göre belirlenir?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/emekli-maasi-sistemindeki-maas-artis.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "22",
+    "soruTitle": "OYAK EMS Sisteminde maaş ödemeleri hangi dönemlerde yapılır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-de-maas-odemeleri-hangi.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "23",
+    "soruTitle": "OYAK EMS Ödemeler hangi bankalar aracılığıyla yapılır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-odemeleri-hangi-bankalar.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "24",
+    "soruTitle": "OYAK EMS'de belirlenen maaş miktarını azaltıp daha fazla rezerve ilave edilmesi nasıl yapılır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-de-belirlenen-maas-miktarini.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "25",
+    "soruTitle": "OYAK EMS Emekli maaşı sisteminde maaş alma oran değişikliği nedir ve nasıl hesaplanır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-de-maas-alma-oran-degisikligi.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "26",
+    "soruTitle": "OYAK EMS'de maaş alınmadan gelirin tamamının rezerve eklenmesi nasıl yapılır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-de-maas-alinmadan-gelirin.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "27",
+    "soruTitle": "OYAK EMS'de maaş alıp / almama kararını ne zaman, nasıl değiştirilir?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-de-maas-alip-almama-zaman.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "28",
+    "soruTitle": "OYAK EMS'de maaşlarını rezervine ilave edilmesini tercih eden üyeler en son hangi maaşı alırlar?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-de-maaslarini-rezervine-ilave.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "29",
+    "soruTitle": "OYAK EMS'de 1 Aylık ile 3 aylık maaş alma tercihi arasındaki fark nedir? Hangisi daha avantajlıdır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/1-aylik-ile-3-aylik-arasindaki-fark.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "30",
+    "soruTitle": "OYAK EMS'de Aylık maaş alma tercihi ne zaman, nasıl yapılır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-aylik-maas-alma-tercihi-ne.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "31",
+    "soruTitle": "OYAK EMS aylık maaş alma tercihinde bulunulduğunda ilk aylık maaş ne zaman alınır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-aylik-maas-alma-tercihinde-ilk.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "32",
+    "soruTitle": "OYAK EMS Aylık maaş alma tercihinde bulunan üyeler yeniden üçer aylık maaş alma tercihinde bulunabilirmi?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/1-aylik-maas-tercihinde-bulunan-uyeler.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "33",
+    "soruTitle": "OYAK EMS Emekli maaşı sistemindeki üyelerin yararlanabilecekleri hizmetler nelerdir?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-de-emekli-maasi-sistemindeki.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "34",
+    "soruTitle": "Maaş ödemesi yapılmayan dönemlerde sosyal hizmet ve ölüm yardımı limitlerinde esas alınacak maaş nasıl hesaplanır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/maas-odemesi-yapilmayan-donemlerde.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "35",
+    "soruTitle": "Sosyal hizmetlere ilişkin taksit ödemeleri emekli maaşından otomatik kesilebilir mi?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/sosyal-hizmetlere-iliskin-taksit.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "36",
+    "soruTitle": "Sistemdeki üyelerin sosyal hizmetlere ilişkin taksitlerini ödememe durumunda yapılan işlem nedir?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/sistemdeki-uyelerin-sosyal-hizmetlere.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "37",
+    "soruTitle": "OYAK EMS de Sisteme para yatırma ne şekilde yapılır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-de-para-yatirma-ne-sekilde.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "38",
+    "soruTitle": "OYAK EMS de katılım oranı/pay artırımı nasıl yapılır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-de-katilim-orani-pay-artirimi.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "39",
+    "soruTitle": "OYAK EMS Emekli Maaş Sisteminde emsal tamamlama nasıl yapılır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-sisteminde-emsal-tamamlama.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "40",
+    "soruTitle": "OYAK EMS Emekli Maaş Sisteminde Rezerv Arttırımı nasıl yapılır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-emekli-maas-sisteminde-rezerv.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "41",
+    "soruTitle": "OYAK EMS Emekli Maaş Sisteminde EMSAL nedir?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-sisteminde-emsal-nedir.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "42",
+    "soruTitle": "OYAK EMS sisteminde katılım oranı/pay artırırken aynı anda emsal tamamlama/rezerv arttırımı nasıl yapılır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/ems-de-katilim-orani-artirirken-ayni.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "43",
+    "soruTitle": "OYAK EMS'de Katılım oranı/pay artırma, emsal tamamlama ya da rezerv artırma nedeniyle oluşacak maaş artışı ne zaman gerçekleşir?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/emsal-tamamlama-rezerv-artirma.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "44",
+    "soruTitle": "OYAK EMS Emekli Maaş Sisteminde katılım oranı/pay azaltımı ne şekilde yapılır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/ems-katilim-orani-pay-azaltimi-ne.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "45",
+    "soruTitle": "OYAK EMS'de katılım oranı/pay azaltımı için başvuru nasıl yapılır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-de-katilim-oranipay-azaltimi.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "46",
+    "soruTitle": "OYAK EMS'de Katılım oranı/pay azaltımından doğan rezerv iadesi ne zaman yapılır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-katilim-oranipay-azaltimindan.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "47",
+    "soruTitle": "OYAK EMS'de Katılım oranı/pay azaltımı yapan üyelerin katılım oranı/pay artırımı yapması mümkün müdür?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/katilim-orani-pay-azaltimi-yapan.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "48",
+    "soruTitle": "OYAK EMS Emekli Maaş Sisteminden nasıl çıkış yapılır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-emekli-maas-sisteminden-nasil.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "49",
+    "soruTitle": "OYAK EMS'de Sistemden çıkış ne şekilde yapılmaktadır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-de-sistemden-cikis-ne-sekilde.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "50",
+    "soruTitle": "OYAK EMS emekli maaşı sisteminden çıktıktan sonra tekrar girilebilir mi?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-den-ciktiktan-sonra-geri.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "51",
+    "soruTitle": "OYAK EMS'den çıkış ve katılım oranı azaltımı rezerv ödemeleri için neden olağan genel kurul sonrası beklenmektedir?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-den-cikis-ve-katilim-orani.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "52",
+    "soruTitle": "OYAK EMS'den çıkış durumunda borç verme hizmetine (oyak kaynaklı ve oyak dışı kaynaklı) ilişkin vadesi gelmemiş borçların durumu ne olmaktadır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/ems-cikisinda-borc-verme-oyak-kaynakli.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "53",
+    "soruTitle": "Üyenin vefatı durumunda eş OYAK EMS sistemine devam edebilir mi?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/uyenin-vefati-durumunda-es-oyak-ems.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "54",
+    "soruTitle": "Emekli maaşı sistemi (OYAK EMS) üyesinin vefatı durumunda yapılan ölüm yardımı tutarı ne kadardır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-uyesinin-vefati-durumunda.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "55",
+    "soruTitle": "OYAK EMS üyesinin vefatı durumunda sistem'deki rezervin ödemesi nasıl yapılır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-uyesinin-vefati-durumunda_11.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "56",
+    "soruTitle": "Üyenin vefatı halinde OYAK EMS sistemine girmek/devam isteyen üye eşi için hangi maaş uygulaması geçerli olur?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/uyenin-vefati-halinde-sisteme-devam.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "57",
+    "soruTitle": "OYAK EMS üyeleri için önemli tarihler nelerdir ve başvurular nasıl yapılır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-uyeleri-icin-onemli-tarihler.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "58",
+    "soruTitle": "Müracaat formu gönderildikten sonra OYAK'a üyelik ne zaman başlar?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-muracaat-formu-gonderildikten.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "59",
+    "soruTitle": "Geçici üyelerin maaşlarından neden %5 aidat kesilmektedir?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/gecici-uyelerin-maaslarindan-neden.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "60",
+    "soruTitle": "OYAK üyelerinden kesilen aidat yüzdesi nedir?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-uyelerinden-kesilen-aidat-yuzdesi.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "61",
+    "soruTitle": "OYAK'ta üyelik süresinde herhangi bir nedenle kesilmeyen/kesilemeyen aidatlar için borçlanabilmek mümkün müdür?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/uyelik-suresinde-herhangi-bir-nedenle.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "62",
+    "soruTitle": "TSK mensuplarının ödediği oyak aidatlarının net maaşları içerisindeki payı nedir?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/tsk-mensuplarinin-odedigi-oyak.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "63",
+    "soruTitle": "İşe girme tarihi ile üyeliğin başladığı tarih arasındaki döneme ait OYAK'a aidat borçlanması yapabilmek mümkün müdür?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/ise-girme-tarihi-ile-uyeligin-basladigi.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "64",
+    "soruTitle": "Emeklilik yardımından kimler yararlanabilir?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/emeklilik-yardimindan-kimler.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "65",
+    "soruTitle": "Üyelik süresi ile emeklilik yardımı arasındaki ilişki nedir?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/uyelik-suresi-ile-emeklilik-yardimi.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "66",
+    "soruTitle": "Üyelerin aidat birikimlerine uygulanan nema nasıl hesaplanır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/uyelerin-aidat-birikimlerine-uygulanan.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "67",
+    "soruTitle": "Aidat iadesinden kimler yararlanabilir?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/aidat-iadesinden-kimler-yararlanabilir.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "68",
+    "soruTitle": "Üyeye, ayrılış tarihinde emeklilik yardımı nasıl ödenir?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/uyeye-ayrilis-tarihinde-emeklilik.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "69",
+    "soruTitle": "Kesinleşmiş kar paylarına göre emeklilik yardımı tutarı nasıl öğrenilir?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/kesinlesmis-kar-paylarina-gore.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "70",
+    "soruTitle": "Oyak üyeliği sona eren bir kişinin yeniden oyak üyesi olması halinde üyelik süresinde birleştirme yapması mümkün müdür?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-uyeligi-sona-eren-bir-kisinin.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "71",
+    "soruTitle": "Aynı dönemde işe başlamış oyak üyelerinin emeklilik yardımı tutarları arasında neden farklılık olabilir?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/ayni-donemde-ise-baslamis-oyak.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "72",
+    "soruTitle": "Maluliyet yardımından kimler yararlanabilir?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/maluliyet-yardimindan-kimler.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "73",
+    "soruTitle": "Maluliyet yardımına nasıl başvuru yapılır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/maluliyet-yardimina-nasil-basvuru.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "74",
+    "soruTitle": "Maluliyet yardımı başvurusunda zaman aşımı var mıdır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/maluliyet-yardimi-basvurusunda-zaman.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "75",
+    "soruTitle": "Ön avans ödemesine nasıl başvuru yapılır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/on-avans-odemesine-nasil-basvuru-yapilir.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "76",
+    "soruTitle": "Üyelere yapılacak maluliyet yardımı tutarları nasıl hesaplanır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/uyelere-yapilacak-maluliyet-yardimi.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "77",
+    "soruTitle": "Maaşımı yapı kredi bankası'na nasıl taşırım?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/maasimi-yapi-kredi-bankasina-nasil.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "78",
+    "soruTitle": "Yapı kredi bankasına herhangi bir taahhüt vermeli miyim?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/yapi-kredi-bankasina-herhangi-bir.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "79",
+    "soruTitle": "Yapı kredi promosyon süresi olan 3 yıllık süre zarfında oyak üyeliğinden çıkarsam veya maaş almama seçeneğini tercih edersem ne olur?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/yapi-kredi-promosyon-suresi-olan-3.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+   },
+  {
+    "soruId": "80",
+    "soruTitle": "Ek başka yükümlülüklerim, taahhütlerim olacak mı?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/kredi-karti-alma-otomatik-fatura-odeme.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "81",
+    "soruTitle": "Eski yapı kredi bankası hesabım var, onun üzerinden promosyon işlemi için tanımlatabilir miyim?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/eski-yapi-kredi-bankasi-hesabim.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "82",
+    "soruTitle": "Yapı kredi bankasından promosyon için hesap açtırmak için şubeye gitmem şart mı?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/yapi-kredi-bankasindan-promosyon-icin.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "83",
+    "soruTitle": "Yapı kredi bankasında hesap açtırmak için istenen evraklar nelerdir?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/hesap-actirmak-icin-istenen-evraklar.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "84",
+    "soruTitle": "Görevdeki üyeler de oyak ems promosyon ödemesi alabilirler mi?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/gorevdeki-uyeler-de-oyak-ems-promosyon.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "85",
+    "soruTitle": "OYAK EMS'de maaş almayan üyeler promosyon ödemesi alabilirler mi?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/ems-de-maas-almayan-uyeler-promosyon.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "86",
+    "soruTitle": "Bağışa dayalı emekli geliri sisteminden de maaş alan üyelere ilave promosyon ödemesi yapılacak mı?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/bagisa-dayali-emekli-geliri-sisteminden.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "87",
+    "soruTitle": "Başka bankalarla promosyon anlaşması olacak mı?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/baska-bankalarla-promosyon-anlasmasi.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "88",
+    "soruTitle": "Vakıfbank/iş bankası hesabım var, kapatmalı mıyım?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/vakifbank-isbankasi-hesabim-var.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "89",
+    "soruTitle": "Maaşım değişirse, promosyon farkı alacak mıyım?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/maasim-degisirse-promosyon-farki-alacak.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "90",
+    "soruTitle": "Promosyon tutarı hesabıma puan olarak mı nakit olarak mı yatırılacak?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/promosyon-tutar-hesabma-puan-olarak-m.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "91",
+    "soruTitle": "OYAK EMS maaşına Promosyon ödemem ne zaman yapılır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/promosyon-odemesi-hesabimi-yapi-kredi.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "92",
+    "soruTitle": "Hangi maaş üzerinden promosyon ödemesi alacağım?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/hangi-maas-uzerinden-promosyon-odemesi.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "93",
+    "soruTitle": "OYAK ödemelerinde banka uygulamaları ve üyelere sağlanan muafiyetler nelerdir?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-odemelerinde-banka-uygulamalari-ve.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "94",
+    "soruTitle": "İş bankası ile ilgili sorular/sorunlar için iletişim adresi nedir?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/isbankasi-ile-ilgili-sorular-sorunlar.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "95",
+    "soruTitle": "Vakıfbank ile ilgili sorular/sorunlar için iletişim adresi nedir?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/vakifbank-ile-ilgili-sorular-sorunlar.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "96",
+    "soruTitle": "OYAK MOBİL cep telefonu uygulamalarını nasıl yüklerim?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyakmobil-android-ve-iphone-uygulamalari.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "97",
+    "soruTitle": "Yapı Kredi Bankasının Üyelere sağladığı muafiyetler nelerdir?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/yapi-kredi-bankasinin-uyelere-sagladigi.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "98",
+    "soruTitle": "Yapı Kredi Bankasının Promosyon ödeme tutarı ne kadardır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/promosyon-tutari-ne-kadar.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "99",
+    "soruTitle": "Pay azaltımı ne zaman yapılır? Pay azaltımı için ne zaman başvurulur?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/pay-azaltimi-nasil-yapilir-ne-zaman.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "100",
+    "soruTitle": "Önümüzdeki Mayıs'ta belirlenecek nema hangi dönemi kapsamaktadır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/belirlenecek-nema-hangi-donemi.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "101",
+    "soruTitle": "3 Aylıktan 1 Aylığa Ne zaman geçebilirim?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/3-ayliktan-1-ayliga-ne-zaman-gecebilirim.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "102",
+    "soruTitle": "İlk defa kıst maaş alacağım bende 7 gün içerisinde Maaş Alma Oran tercihi yapabilirmiyim?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/ilk-defa-kist-maas-alacagim-bende.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "103",
+    "soruTitle": "Maaşalma Oran Tercihi(MOT) belirlemez isem Maaşalma Oran Tercihi hangi orana göre maaş alırım?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/maasalma-oran-tercihi-mot-yapmazsam.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "104",
+    "soruTitle": "Maaş Tercihi yapılacak 7 gün içinde maaş almak istemez isem ne yapmam gerekiyor?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/maas-almak-istemezsem-7-gun-icinde-ne.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "105",
+    "soruTitle": "1 Kasım - 15 Nisan arasında maaş istememiştim, Gen.Krl. Sonrası 7 günde maaş almayı seçebilirmiyim?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/15-nisana-kadar-maas-istememistim-gen.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "106",
+    "soruTitle": "İlk defa kıst maaş alacaklar 3 aylık alabilir mi?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/ilk-defa-kist-maas-alacaklar-3-aylik.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "107",
+    "soruTitle": "OYAK hangi bankalarla anlaşmalı?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-hangi-bankalarla-anlasmali.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "108",
+    "soruTitle": "1 yıl boyunca aldığım/alacağım aylıklar (Karpayı Maaşları) nemalanıyor mu?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/ayliklar-maaslar-nemalanyor-mu.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "109",
+    "soruTitle": "Maaşalma Oran Tercihi(MOT) neden en fazla %50",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/maas-alma-orani-en-fazla-kactir.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "110",
+    "soruTitle": "2025 dönemi Maas alıp almama ve Maaş oran tercihi(MOT) takvimi tarihleri ne zaman?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/110-yeni-donem-maas-alip-almama-ve-maas.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "111",
+    "soruTitle": "Genel Kurul Sonrası hangi aylarda maaş alacağım?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/genel-kurul-sonrasi-hangi-aylarda-maas.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "112",
+    "soruTitle": "Kıst Maaş alıyorum Mayıs Gen.Krl. sonrası maaşımı yükseltirsem OYAK EMS Banka promosyonu güncellemesi yapabilirmiyim?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/kist-maas-aliyorum-maysta-maasim.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "113",
+    "soruTitle": "OYAK EMS'ye Giriş ve Sisteme katılım payları nasıl belirlenir?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-ye-giris-ve-sisteme-katilim_79.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "114",
+    "soruTitle": "Bu yıl 2026 Mayıs genel kurul sonrası maaş alacağım. Maaşalma Oran Tercihini (MOT) ne zaman yapacağım?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/buyil-maas-alacagim-ne-zaman-mot.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "115",
+    "soruTitle": "Bu yıl ilk defa maaş alacağım. Promosyon Yapı Kredi Bankasına ne zaman başvurmalıyım?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/ilk-defa-maas-alacagim-promosyon-icin.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "116",
+    "soruTitle": "OYAK EMS'de Pay Azaltımı yaptım ödemem ne zaman yapılıyor?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/pay-azaltm-yaptm-odemem-ne-zaman-yaplyor.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "117",
+    "soruTitle": "Emsal tamamlama veya Pay Arttırımı'nı kimler yapabilir?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/emsal-tamamlama-veya-pay-arttirimini.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "118",
+    "soruTitle": "3 Aylıktan 1 aylığa geçenlere aylık ödemeleri neden Temmuz ayında başlıyor?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/3-ayliktan-1-ayliga-gecen-neden.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "119",
+    "soruTitle": "Maaşalma oran tercihi(MOT)'ni 7 gün içerisinde OYAK Mobilden nasıl yapacağım?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/maasalma-oran-tercihini-7-gun.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "120",
+    "soruTitle": "Maaş almak istemezsem bunu 7 gün içerisinde OYAK Mobilden nasıl yapacağım?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/maas-almak-istemez-isem-7-gun.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "121",
+    "soruTitle": "Çalışan/Görevdeki ve OYAK EMS üyelerinin masraf ve riziko kesintileri nedir?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/masraf-riziko-olum-yardimi-oranlari.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "122",
+    "soruTitle": "OYAK EMS'den ne zaman çıkarsam, çıkış ödemem ne zaman yapılır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/oyak-ems-den-ne-zaman-cikarsam-odemem.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "123",
+    "soruTitle": "OYAK EMS'de pay azaltımı için OYAK'a ne zaman başvurabilirim? Ödemem ne zaman yapılır?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/pay-azaltimi-icin-oyak-ne-zaman.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "124",
+    "soruTitle": "Pay azaltımı ve Çıkış'ta 3 Yıl ile ilgili bilinmesi gerekenler?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/uc-yl-ne-zaman-doluyor.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  },
+  {
+    "soruId": "125",
+    "soruTitle": "10 yılı doldurmadan TSK'dan ayrılırsam OYAK ödemem yapılır mı?",
+    "soruUrl": "https://oyakbilgi.blogspot.com/p/10-yili-doldurmadan-tsk-dan-ayrilirsam.html",
+    "soruResim": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwOZzlabGdrqZpVyRI3_pFexGFNMpAUGpeOnFtdcn-vSQ07Ne_bS9WuAfTDT3F9vppha4nqZUAear6gS81g4oNbC8TaPkWdWpZkeJ9HoUrmbScQxUyCmN4JMUkQZymPHOFnnFAo6_lPPPRr6yg9ZBcLLHS7_9rPaSmrod8rf4fWHwVZYt_Ezt4z3NnRNJ2/s1600/scevaplar.jpg"
+  }
+  
   ]
 }
